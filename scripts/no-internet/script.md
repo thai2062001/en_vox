@@ -44,7 +44,7 @@ You casually flick your wrist, tapping your shiny Apple Watch against the contac
 
 Instead, the barista shakes his head apologetically as the screen blares a loud error buzz: "Nationwide network blackout, bro. Cash only today, exact change preferred!"
 
-You frantically dump your entire backpack across the passenger seat: all you can find is one rusty 1998 quarter, two paperclips, and faded Target receipts from six months ago.
+You frantically dump your entire backpack across the passenger seat: all you can find is one rusty nineteen ninety-eight quarter, two paperclips, and faded Target receipts from six months ago.
 
 In a society where millions of people go an entire year without ever touching a crisp paper dollar bill, caffeine addicts everywhere plunge into sheer financial paralysis.
 
