@@ -174,7 +174,7 @@ You sink comfortably into your wooden rocking chair, savoring a refreshing sip o
 
 And then... from the darkest, dustiest corner of your living room, buried beneath a massive stack of old newspapers...
 
-"DING DING! DING DING! DING DING!" 🔊 A violent, unmistakable digital chime shatters the evening silence!
+"DING DING! DING DING! DING DING!" A violent, unmistakable digital chime shatters the evening silence!
 
 The dusty iPhone violently vibrates against the wooden floorboards, its screen lighting up with blinding, hyperactive neon colors!
 

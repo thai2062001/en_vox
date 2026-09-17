@@ -2,7 +2,7 @@
 // KOKORO TTS & FREESOUND API CONFIGURATION
 // ==========================================
 
-export const KOKORO_API_URL = "https://stockings-much-centers-strict.trycloudflare.com";
+export const KOKORO_API_URL = "https://sizes-quit-playlist-enhance.trycloudflare.com";
 
 // Cấu hình mặc định cho TTS
 export const DEFAULT_CONFIG = {

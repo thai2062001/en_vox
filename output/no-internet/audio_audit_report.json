@@ -1,0 +1,761 @@
+{
+  "summary": {
+    "totalFiles": 94,
+    "issuesCount": 0
+  },
+  "issues": [],
+  "metrics": [
+    {
+      "line": 1,
+      "fileName": "line_001.wav",
+      "durationSec": "6.44",
+      "wordCount": 18,
+      "wordsPerMinute": "168",
+      "sizeKB": "302.0"
+    },
+    {
+      "line": 2,
+      "fileName": "line_002.wav",
+      "durationSec": "8.58",
+      "wordCount": 26,
+      "wordsPerMinute": "182",
+      "sizeKB": "402.0"
+    },
+    {
+      "line": 3,
+      "fileName": "line_003.wav",
+      "durationSec": "7.66",
+      "wordCount": 21,
+      "wordsPerMinute": "165",
+      "sizeKB": "359.0"
+    },
+    {
+      "line": 4,
+      "fileName": "line_004.wav",
+      "durationSec": "6.76",
+      "wordCount": 22,
+      "wordsPerMinute": "195",
+      "sizeKB": "317.0"
+    },
+    {
+      "line": 5,
+      "fileName": "line_005.wav",
+      "durationSec": "7.08",
+      "wordCount": 24,
+      "wordsPerMinute": "203",
+      "sizeKB": "332.0"
+    },
+    {
+      "line": 6,
+      "fileName": "line_006.wav",
+      "durationSec": "5.82",
+      "wordCount": 21,
+      "wordsPerMinute": "216",
+      "sizeKB": "273.0"
+    },
+    {
+      "line": 7,
+      "fileName": "line_007.wav",
+      "durationSec": "8.75",
+      "wordCount": 27,
+      "wordsPerMinute": "185",
+      "sizeKB": "410.0"
+    },
+    {
+      "line": 8,
+      "fileName": "line_008.wav",
+      "durationSec": "8.43",
+      "wordCount": 24,
+      "wordsPerMinute": "171",
+      "sizeKB": "395.0"
+    },
+    {
+      "line": 9,
+      "fileName": "line_009.wav",
+      "durationSec": "9.75",
+      "wordCount": 26,
+      "wordsPerMinute": "160",
+      "sizeKB": "457.0"
+    },
+    {
+      "line": 10,
+      "fileName": "line_010.wav",
+      "durationSec": "8.41",
+      "wordCount": 20,
+      "wordsPerMinute": "143",
+      "sizeKB": "394.0"
+    },
+    {
+      "line": 11,
+      "fileName": "line_011.wav",
+      "durationSec": "10.13",
+      "wordCount": 29,
+      "wordsPerMinute": "172",
+      "sizeKB": "475.0"
+    },
+    {
+      "line": 12,
+      "fileName": "line_012.wav",
+      "durationSec": "9.30",
+      "wordCount": 20,
+      "wordsPerMinute": "129",
+      "sizeKB": "436.0"
+    },
+    {
+      "line": 13,
+      "fileName": "line_013.wav",
+      "durationSec": "9.09",
+      "wordCount": 21,
+      "wordsPerMinute": "139",
+      "sizeKB": "426.0"
+    },
+    {
+      "line": 14,
+      "fileName": "line_014.wav",
+      "durationSec": "7.74",
+      "wordCount": 22,
+      "wordsPerMinute": "170",
+      "sizeKB": "363.0"
+    },
+    {
+      "line": 15,
+      "fileName": "line_015.wav",
+      "durationSec": "7.13",
+      "wordCount": 21,
+      "wordsPerMinute": "177",
+      "sizeKB": "334.0"
+    },
+    {
+      "line": 16,
+      "fileName": "line_016.wav",
+      "durationSec": "11.33",
+      "wordCount": 28,
+      "wordsPerMinute": "148",
+      "sizeKB": "531.0"
+    },
+    {
+      "line": 17,
+      "fileName": "line_017.wav",
+      "durationSec": "10.15",
+      "wordCount": 25,
+      "wordsPerMinute": "148",
+      "sizeKB": "476.0"
+    },
+    {
+      "line": 18,
+      "fileName": "line_018.wav",
+      "durationSec": "9.09",
+      "wordCount": 25,
+      "wordsPerMinute": "165",
+      "sizeKB": "426.0"
+    },
+    {
+      "line": 19,
+      "fileName": "line_019.wav",
+      "durationSec": "9.83",
+      "wordCount": 27,
+      "wordsPerMinute": "165",
+      "sizeKB": "461.0"
+    },
+    {
+      "line": 20,
+      "fileName": "line_020.wav",
+      "durationSec": "9.45",
+      "wordCount": 28,
+      "wordsPerMinute": "178",
+      "sizeKB": "443.0"
+    },
+    {
+      "line": 21,
+      "fileName": "line_021.wav",
+      "durationSec": "7.70",
+      "wordCount": 22,
+      "wordsPerMinute": "171",
+      "sizeKB": "361.0"
+    },
+    {
+      "line": 22,
+      "fileName": "line_022.wav",
+      "durationSec": "7.72",
+      "wordCount": 22,
+      "wordsPerMinute": "171",
+      "sizeKB": "362.0"
+    },
+    {
+      "line": 23,
+      "fileName": "line_023.wav",
+      "durationSec": "11.20",
+      "wordCount": 25,
+      "wordsPerMinute": "134",
+      "sizeKB": "525.0"
+    },
+    {
+      "line": 24,
+      "fileName": "line_024.wav",
+      "durationSec": "10.24",
+      "wordCount": 29,
+      "wordsPerMinute": "170",
+      "sizeKB": "480.0"
+    },
+    {
+      "line": 25,
+      "fileName": "line_025.wav",
+      "durationSec": "9.00",
+      "wordCount": 27,
+      "wordsPerMinute": "180",
+      "sizeKB": "422.0"
+    },
+    {
+      "line": 26,
+      "fileName": "line_026.wav",
+      "durationSec": "9.47",
+      "wordCount": 28,
+      "wordsPerMinute": "177",
+      "sizeKB": "444.0"
+    },
+    {
+      "line": 27,
+      "fileName": "line_027.wav",
+      "durationSec": "9.15",
+      "wordCount": 20,
+      "wordsPerMinute": "131",
+      "sizeKB": "429.0"
+    },
+    {
+      "line": 28,
+      "fileName": "line_028.wav",
+      "durationSec": "9.77",
+      "wordCount": 26,
+      "wordsPerMinute": "160",
+      "sizeKB": "458.0"
+    },
+    {
+      "line": 29,
+      "fileName": "line_029.wav",
+      "durationSec": "9.98",
+      "wordCount": 23,
+      "wordsPerMinute": "138",
+      "sizeKB": "468.0"
+    },
+    {
+      "line": 30,
+      "fileName": "line_030.wav",
+      "durationSec": "13.16",
+      "wordCount": 31,
+      "wordsPerMinute": "141",
+      "sizeKB": "617.0"
+    },
+    {
+      "line": 31,
+      "fileName": "line_031.wav",
+      "durationSec": "10.24",
+      "wordCount": 27,
+      "wordsPerMinute": "158",
+      "sizeKB": "480.0"
+    },
+    {
+      "line": 32,
+      "fileName": "line_032.wav",
+      "durationSec": "9.39",
+      "wordCount": 31,
+      "wordsPerMinute": "198",
+      "sizeKB": "440.0"
+    },
+    {
+      "line": 33,
+      "fileName": "line_033.wav",
+      "durationSec": "9.15",
+      "wordCount": 29,
+      "wordsPerMinute": "190",
+      "sizeKB": "429.0"
+    },
+    {
+      "line": 34,
+      "fileName": "line_034.wav",
+      "durationSec": "7.21",
+      "wordCount": 23,
+      "wordsPerMinute": "191",
+      "sizeKB": "338.0"
+    },
+    {
+      "line": 35,
+      "fileName": "line_035.wav",
+      "durationSec": "10.50",
+      "wordCount": 23,
+      "wordsPerMinute": "131",
+      "sizeKB": "492.0"
+    },
+    {
+      "line": 36,
+      "fileName": "line_036.wav",
+      "durationSec": "8.87",
+      "wordCount": 21,
+      "wordsPerMinute": "142",
+      "sizeKB": "416.0"
+    },
+    {
+      "line": 37,
+      "fileName": "line_037.wav",
+      "durationSec": "10.33",
+      "wordCount": 26,
+      "wordsPerMinute": "151",
+      "sizeKB": "484.0"
+    },
+    {
+      "line": 38,
+      "fileName": "line_038.wav",
+      "durationSec": "10.60",
+      "wordCount": 29,
+      "wordsPerMinute": "164",
+      "sizeKB": "497.0"
+    },
+    {
+      "line": 39,
+      "fileName": "line_039.wav",
+      "durationSec": "10.50",
+      "wordCount": 31,
+      "wordsPerMinute": "177",
+      "sizeKB": "492.0"
+    },
+    {
+      "line": 40,
+      "fileName": "line_040.wav",
+      "durationSec": "10.05",
+      "wordCount": 24,
+      "wordsPerMinute": "143",
+      "sizeKB": "471.0"
+    },
+    {
+      "line": 41,
+      "fileName": "line_041.wav",
+      "durationSec": "8.15",
+      "wordCount": 18,
+      "wordsPerMinute": "133",
+      "sizeKB": "382.0"
+    },
+    {
+      "line": 42,
+      "fileName": "line_042.wav",
+      "durationSec": "7.51",
+      "wordCount": 15,
+      "wordsPerMinute": "120",
+      "sizeKB": "352.0"
+    },
+    {
+      "line": 43,
+      "fileName": "line_043.wav",
+      "durationSec": "9.83",
+      "wordCount": 24,
+      "wordsPerMinute": "146",
+      "sizeKB": "461.0"
+    },
+    {
+      "line": 44,
+      "fileName": "line_044.wav",
+      "durationSec": "10.92",
+      "wordCount": 24,
+      "wordsPerMinute": "132",
+      "sizeKB": "512.0"
+    },
+    {
+      "line": 45,
+      "fileName": "line_045.wav",
+      "durationSec": "10.07",
+      "wordCount": 21,
+      "wordsPerMinute": "125",
+      "sizeKB": "472.0"
+    },
+    {
+      "line": 46,
+      "fileName": "line_046.wav",
+      "durationSec": "9.69",
+      "wordCount": 20,
+      "wordsPerMinute": "124",
+      "sizeKB": "454.0"
+    },
+    {
+      "line": 47,
+      "fileName": "line_047.wav",
+      "durationSec": "10.62",
+      "wordCount": 22,
+      "wordsPerMinute": "124",
+      "sizeKB": "498.0"
+    },
+    {
+      "line": 48,
+      "fileName": "line_048.wav",
+      "durationSec": "10.20",
+      "wordCount": 21,
+      "wordsPerMinute": "124",
+      "sizeKB": "478.0"
+    },
+    {
+      "line": 49,
+      "fileName": "line_049.wav",
+      "durationSec": "9.11",
+      "wordCount": 21,
+      "wordsPerMinute": "138",
+      "sizeKB": "427.0"
+    },
+    {
+      "line": 50,
+      "fileName": "line_050.wav",
+      "durationSec": "7.66",
+      "wordCount": 22,
+      "wordsPerMinute": "172",
+      "sizeKB": "359.0"
+    },
+    {
+      "line": 51,
+      "fileName": "line_051.wav",
+      "durationSec": "7.27",
+      "wordCount": 23,
+      "wordsPerMinute": "190",
+      "sizeKB": "341.0"
+    },
+    {
+      "line": 52,
+      "fileName": "line_052.wav",
+      "durationSec": "9.45",
+      "wordCount": 26,
+      "wordsPerMinute": "165",
+      "sizeKB": "443.0"
+    },
+    {
+      "line": 53,
+      "fileName": "line_053.wav",
+      "durationSec": "10.69",
+      "wordCount": 33,
+      "wordsPerMinute": "185",
+      "sizeKB": "501.0"
+    },
+    {
+      "line": 54,
+      "fileName": "line_054.wav",
+      "durationSec": "11.33",
+      "wordCount": 27,
+      "wordsPerMinute": "143",
+      "sizeKB": "531.0"
+    },
+    {
+      "line": 55,
+      "fileName": "line_055.wav",
+      "durationSec": "8.13",
+      "wordCount": 16,
+      "wordsPerMinute": "118",
+      "sizeKB": "381.0"
+    },
+    {
+      "line": 56,
+      "fileName": "line_056.wav",
+      "durationSec": "8.23",
+      "wordCount": 19,
+      "wordsPerMinute": "138",
+      "sizeKB": "386.0"
+    },
+    {
+      "line": 57,
+      "fileName": "line_057.wav",
+      "durationSec": "10.13",
+      "wordCount": 24,
+      "wordsPerMinute": "142",
+      "sizeKB": "475.0"
+    },
+    {
+      "line": 58,
+      "fileName": "line_058.wav",
+      "durationSec": "9.15",
+      "wordCount": 21,
+      "wordsPerMinute": "138",
+      "sizeKB": "429.0"
+    },
+    {
+      "line": 59,
+      "fileName": "line_059.wav",
+      "durationSec": "10.22",
+      "wordCount": 26,
+      "wordsPerMinute": "153",
+      "sizeKB": "479.0"
+    },
+    {
+      "line": 60,
+      "fileName": "line_060.wav",
+      "durationSec": "9.28",
+      "wordCount": 23,
+      "wordsPerMinute": "149",
+      "sizeKB": "435.0"
+    },
+    {
+      "line": 61,
+      "fileName": "line_061.wav",
+      "durationSec": "10.37",
+      "wordCount": 22,
+      "wordsPerMinute": "127",
+      "sizeKB": "486.0"
+    },
+    {
+      "line": 62,
+      "fileName": "line_062.wav",
+      "durationSec": "10.33",
+      "wordCount": 21,
+      "wordsPerMinute": "122",
+      "sizeKB": "484.0"
+    },
+    {
+      "line": 63,
+      "fileName": "line_063.wav",
+      "durationSec": "9.73",
+      "wordCount": 24,
+      "wordsPerMinute": "148",
+      "sizeKB": "456.0"
+    },
+    {
+      "line": 64,
+      "fileName": "line_064.wav",
+      "durationSec": "9.58",
+      "wordCount": 20,
+      "wordsPerMinute": "125",
+      "sizeKB": "449.0"
+    },
+    {
+      "line": 65,
+      "fileName": "line_065.wav",
+      "durationSec": "11.35",
+      "wordCount": 28,
+      "wordsPerMinute": "148",
+      "sizeKB": "532.0"
+    },
+    {
+      "line": 66,
+      "fileName": "line_066.wav",
+      "durationSec": "12.52",
+      "wordCount": 27,
+      "wordsPerMinute": "129",
+      "sizeKB": "587.0"
+    },
+    {
+      "line": 67,
+      "fileName": "line_067.wav",
+      "durationSec": "8.06",
+      "wordCount": 17,
+      "wordsPerMinute": "126",
+      "sizeKB": "378.0"
+    },
+    {
+      "line": 68,
+      "fileName": "line_068.wav",
+      "durationSec": "9.54",
+      "wordCount": 22,
+      "wordsPerMinute": "138",
+      "sizeKB": "447.0"
+    },
+    {
+      "line": 69,
+      "fileName": "line_069.wav",
+      "durationSec": "9.07",
+      "wordCount": 21,
+      "wordsPerMinute": "139",
+      "sizeKB": "425.0"
+    },
+    {
+      "line": 70,
+      "fileName": "line_070.wav",
+      "durationSec": "10.65",
+      "wordCount": 34,
+      "wordsPerMinute": "192",
+      "sizeKB": "499.0"
+    },
+    {
+      "line": 71,
+      "fileName": "line_071.wav",
+      "durationSec": "9.54",
+      "wordCount": 24,
+      "wordsPerMinute": "151",
+      "sizeKB": "447.0"
+    },
+    {
+      "line": 72,
+      "fileName": "line_072.wav",
+      "durationSec": "11.03",
+      "wordCount": 29,
+      "wordsPerMinute": "158",
+      "sizeKB": "517.0"
+    },
+    {
+      "line": 73,
+      "fileName": "line_073.wav",
+      "durationSec": "10.01",
+      "wordCount": 28,
+      "wordsPerMinute": "168",
+      "sizeKB": "469.0"
+    },
+    {
+      "line": 74,
+      "fileName": "line_074.wav",
+      "durationSec": "10.71",
+      "wordCount": 27,
+      "wordsPerMinute": "151",
+      "sizeKB": "502.0"
+    },
+    {
+      "line": 75,
+      "fileName": "line_075.wav",
+      "durationSec": "6.34",
+      "wordCount": 17,
+      "wordsPerMinute": "161",
+      "sizeKB": "297.0"
+    },
+    {
+      "line": 76,
+      "fileName": "line_076.wav",
+      "durationSec": "10.39",
+      "wordCount": 26,
+      "wordsPerMinute": "150",
+      "sizeKB": "487.0"
+    },
+    {
+      "line": 77,
+      "fileName": "line_077.wav",
+      "durationSec": "10.45",
+      "wordCount": 25,
+      "wordsPerMinute": "143",
+      "sizeKB": "490.0"
+    },
+    {
+      "line": 78,
+      "fileName": "line_078.wav",
+      "durationSec": "11.80",
+      "wordCount": 20,
+      "wordsPerMinute": "102",
+      "sizeKB": "553.0"
+    },
+    {
+      "line": 79,
+      "fileName": "line_079.wav",
+      "durationSec": "12.33",
+      "wordCount": 24,
+      "wordsPerMinute": "117",
+      "sizeKB": "578.0"
+    },
+    {
+      "line": 80,
+      "fileName": "line_080.wav",
+      "durationSec": "10.54",
+      "wordCount": 22,
+      "wordsPerMinute": "125",
+      "sizeKB": "494.0"
+    },
+    {
+      "line": 81,
+      "fileName": "line_081.wav",
+      "durationSec": "11.78",
+      "wordCount": 26,
+      "wordsPerMinute": "132",
+      "sizeKB": "552.0"
+    },
+    {
+      "line": 82,
+      "fileName": "line_082.wav",
+      "durationSec": "12.99",
+      "wordCount": 25,
+      "wordsPerMinute": "115",
+      "sizeKB": "609.0"
+    },
+    {
+      "line": 83,
+      "fileName": "line_083.wav",
+      "durationSec": "11.58",
+      "wordCount": 19,
+      "wordsPerMinute": "98",
+      "sizeKB": "543.0"
+    },
+    {
+      "line": 84,
+      "fileName": "line_084.wav",
+      "durationSec": "15.77",
+      "wordCount": 31,
+      "wordsPerMinute": "118",
+      "sizeKB": "739.0"
+    },
+    {
+      "line": 85,
+      "fileName": "line_085.wav",
+      "durationSec": "13.08",
+      "wordCount": 24,
+      "wordsPerMinute": "110",
+      "sizeKB": "613.0"
+    },
+    {
+      "line": 86,
+      "fileName": "line_086.wav",
+      "durationSec": "13.93",
+      "wordCount": 35,
+      "wordsPerMinute": "151",
+      "sizeKB": "653.0"
+    },
+    {
+      "line": 87,
+      "fileName": "line_087.wav",
+      "durationSec": "10.33",
+      "wordCount": 25,
+      "wordsPerMinute": "145",
+      "sizeKB": "484.0"
+    },
+    {
+      "line": 88,
+      "fileName": "line_088.wav",
+      "durationSec": "7.68",
+      "wordCount": 19,
+      "wordsPerMinute": "148",
+      "sizeKB": "360.0"
+    },
+    {
+      "line": 89,
+      "fileName": "line_089.wav",
+      "durationSec": "5.48",
+      "wordCount": 15,
+      "wordsPerMinute": "164",
+      "sizeKB": "257.0"
+    },
+    {
+      "line": 90,
+      "fileName": "line_090.wav",
+      "durationSec": "6.55",
+      "wordCount": 18,
+      "wordsPerMinute": "165",
+      "sizeKB": "307.0"
+    },
+    {
+      "line": 91,
+      "fileName": "line_091.wav",
+      "durationSec": "12.65",
+      "wordCount": 31,
+      "wordsPerMinute": "147",
+      "sizeKB": "593.0"
+    },
+    {
+      "line": 92,
+      "fileName": "line_092.wav",
+      "durationSec": "9.60",
+      "wordCount": 35,
+      "wordsPerMinute": "219",
+      "sizeKB": "450.0"
+    },
+    {
+      "line": 93,
+      "fileName": "line_093.wav",
+      "durationSec": "6.93",
+      "wordCount": 25,
+      "wordsPerMinute": "216",
+      "sizeKB": "325.0"
+    },
+    {
+      "line": 94,
+      "fileName": "line_094.wav",
+      "durationSec": "8.47",
+      "wordCount": 25,
+      "wordsPerMinute": "177",
+      "sizeKB": "397.0"
+    }
+  ]
+}
