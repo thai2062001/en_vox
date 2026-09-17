@@ -2,7 +2,7 @@
 // KOKORO TTS & FREESOUND API CONFIGURATION
 // ==========================================
 
-export const KOKORO_API_URL = "https://literacy-retro-earrings-boxed.trycloudflare.com";
+export const KOKORO_API_URL = "https://mazda-cubic-moderate-packaging.trycloudflare.com";
 
 // Cấu hình mặc định cho TTS
 export const DEFAULT_CONFIG = {
