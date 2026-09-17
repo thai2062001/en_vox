@@ -182,6 +182,6 @@ The signal indicator shoots straight up to full 5G bars with a blazing green Wi-
 
 In less than a millisecond, your entire peaceful philosophy evaporates: You hurl your glass of iced tea straight into the sky, leap across the living room like an Olympic gymnast, and dive for the phone!
 
-You slam the charger into the charging port with lightning speed, frantically tapping the screen with wild, manic eyes, squealing: "OMG! What episode did the celebrity drama reach?! Who got canceled?!".
+You slam the charger into the port, frantically tapping the screen with wild eyes, screaming: "Oh my God, did I miss anything?! Who got canceled?!".
 
 Living slow, mindful, and authentic was truly beautiful and poetic for a while... but high-speed Wi-Fi at midnight will forever be humanity's true, irreplaceable soulmate!
